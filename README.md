@@ -11,3 +11,5 @@ Esta entrega incluye interfaces, implementación y testeo de:
 - Arbol Binario de Busqueda
 - Heap
 - Hash Cerrado
+
+https://github.com/ggiao2001/grupo12-p2-tads.git
